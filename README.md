@@ -6,3 +6,6 @@ Just put the html into the browser
 it's canvase base.
 
 Enjoey~
+
+## footprint
+![cover](./footprint.png)
